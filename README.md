@@ -1,5 +1,5 @@
 # StockPortfolio
-A web app allows users to add and delete individual stocks from a stock portfolio. And shows the comnpany name, stock peice, previous close, market cap, YTD change, 52Wk and 52Wk low. 
+A web app allows users to add/delete individual stocks to/from a stock portfolio. And shows the comnpany name, stock peice, previous close, market cap, YTD change, 52Wk and 52Wk low. 
 
 Technologies used: Python, Django, Bootstrap, HTML
 
